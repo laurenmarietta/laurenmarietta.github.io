@@ -235,6 +235,14 @@ footer {
     margin-right: 30px;
 }
 
+.alert-success {
+    text-align: center;
+    border-radius: 0px;
+    border: 0px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
 /*- - - - - - - - INTEREST PAGES - - - - - - - - */
 
 .project-blurbs {
